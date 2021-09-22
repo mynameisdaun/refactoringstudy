@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/006921.iml" filepath="$PROJECT_DIR$/006921.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuplicateObservedData/DuplicateObservedData.iml" filepath="$PROJECT_DIR$/DuplicateObservedData/DuplicateObservedData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtractClass/ExtractClass.iml" filepath="$PROJECT_DIR$/ExtractClass/ExtractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtractMethod/ExtractMethod.iml" filepath="$PROJECT_DIR$/ExtractMethod/ExtractMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HideDelegate/HideDelegate.iml" filepath="$PROJECT_DIR$/HideDelegate/HideDelegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceAssertion/IntroduceAssertion.iml" filepath="$PROJECT_DIR$/IntroduceAssertion/IntroduceAssertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduceNullObject/IntroduceNullObject.iml" filepath="$PROJECT_DIR$/IntroduceNullObject/IntroduceNullObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveControlFlag/RemoveControlFlag.iml" filepath="$PROJECT_DIR$/RemoveControlFlag/RemoveControlFlag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceConstructorWithFactoryMethod/ReplaceConstructorWithFactoryMethod.iml" filepath="$PROJECT_DIR$/ReplaceConstructorWithFactoryMethod/ReplaceConstructorWithFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceErrorCodeWithException/ReplaceErrorCodeWithException.iml" filepath="$PROJECT_DIR$/ReplaceErrorCodeWithException/ReplaceErrorCodeWithException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceInheritanceWithDelegation/ReplaceInheritanceWithDelegation.iml" filepath="$PROJECT_DIR$/ReplaceInheritanceWithDelegation/ReplaceInheritanceWithDelegation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceMagicNumberWithSymbolicConstant/ReplaceMagicNumberWithSymbolicConstant.iml" filepath="$PROJECT_DIR$/ReplaceMagicNumberWithSymbolicConstant/ReplaceMagicNumberWithSymbolicConstant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceTypeCodeWithClass/ReplaceTypeCodeWithClass.iml" filepath="$PROJECT_DIR$/ReplaceTypeCodeWithClass/ReplaceTypeCodeWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceTypeCodeWithStateStrategy/ReplaceTypeCodeWithStateStrategy.iml" filepath="$PROJECT_DIR$/ReplaceTypeCodeWithStateStrategy/ReplaceTypeCodeWithStateStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceTypeCodeWithSubclasses/ReplaceTypeCodeWithSubclasses.iml" filepath="$PROJECT_DIR$/ReplaceTypeCodeWithSubclasses/ReplaceTypeCodeWithSubclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeaseApartInheritance/TeaseApartInheritance.iml" filepath="$PROJECT_DIR$/TeaseApartInheritance/TeaseApartInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest/UnitTest.iml" filepath="$PROJECT_DIR$/UnitTest/UnitTest.iml" />
+    </modules>
+  </component>
+</project>
